@@ -1,0 +1,56 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    margin-bottom:3rem;
+}
+.logo2{
+    margin-right:18.5rem;
+    margin-left: 1rem;
+}
+.TheadColor{
+    background-color: rgb(225, 216, 216);
+}
+.main-div th,.main-div td{
+    padding: 10px;
+    text-align: center;
+    line-height: normal; 
+}
+.img1{
+        height: 300px;
+        margin-top:10rem;
+        margin-right: 1rem;
+        float:left;
+}
+.img2{
+    height: 300px;
+    margin-top:10rem;
+    margin-left: 1rem;
+    float: right;
+}
+
+#root{
+    background-color: #c0eaea;
+}
+table ,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.red:hover{
+    background-color: orangered;
+    color:black;
+}
+.green:hover{
+    background-color: rgb(23, 228, 30);
+    color:black;
+}
+.orange:hover{
+    background-color: orange;
+    color:black;
+}
+.main-header{
+    padding:13px 7px 7px 13px;
+    background-color: #338585;
+    color:white;
+    font-weight: 800;
+}
